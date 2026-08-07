@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mannan563/Leetcode-Practice/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mannan563/Leetcode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mannan563/Leetcode-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
