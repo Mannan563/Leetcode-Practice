@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Mannan563/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mannan563/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Mannan563/Leetcode-Practice/tree/master/0344-reverse-string) |
 ## Bit Manipulation
