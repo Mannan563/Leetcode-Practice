@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mannan563/Leetcode-Practice/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mannan563/Leetcode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
